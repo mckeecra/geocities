@@ -1,0 +1,66 @@
+#center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 20%;
+}
+
+#container{
+    position: absolute;
+    width: 100%;
+    left: 50%;
+    top: 30px;
+    transform: translateX(-50%);
+    height: 100%;
+    margin-left: 10px;
+}
+
+#div1 {
+    height: max-content;
+    width: 2000px;
+    background: url(gif/anstarli.gif);
+    background-repeat: repeat;
+    background-size: contain;
+}
+  
+#div2 {
+    height: 200px;
+    width: 2000px;
+    background: url(gif/snowglobe-dreamsicle2.gif);
+    background-repeat: repeat;
+    background-size: contain;
+}
+  
+#div3 {
+    height: 200px;
+    width: 2000px;
+    background: url(img/train.jpg);
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+#div4 {
+    height: 200px;
+    width: 2000px;
+    background: url(img/OIP.jpg);
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+#div5 {
+    height: 200px;
+    width: 2000px;
+    background: url(img/godflame.png);
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+#div6 {
+    height: 200px;
+    width: 2000px;
+    background: url(img/mario.png);
+    background-repeat: repeat;
+    background-size: contain;
+}
+
